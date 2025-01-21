@@ -1,3 +1,3 @@
 # Minecraft-Code
 Minecraft Custom Vanilla Bosses, Items, etc etc.
-This is where I throw my Minecraft Code into to publish for everyone to use, these can range from insta kill bosses, potions, blocks, prefilled chests, etc.
+To the retards who somehow found this github account, hi. I occasionally create custom minecraft stuff and throw them here if i feel like it, don't expect this account to be super uber active. noobs.
