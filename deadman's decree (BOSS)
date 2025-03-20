@@ -1,1 +1,1 @@
-/give @p
+summon horse ~ ~ ~ {Variant:3,Health:100,body_armor_item:{id:leather_horse_armor,count:1},SaddleItem:{id:saddle,count:1},attributes:[{id:movement_speed,base:20f},{id:max_health,base:100f}],Passengers:[{id:skeleton,CustomName:'[{"text":"Deadman\'s Decree","color":"gold","bold":true}]',CustomNameVisible:1b,Health:800,attributes:[{id:max_health,base:800f}]}]}
