@@ -15,11 +15,11 @@ _heres what you can expect to find:_
 
 Some of these mobs are in an "army" of sorts, so below are all of them listed together
 _Illager's Revolutionary Army_
-> The Progressor (He was kicked out because of some shenanigans, and so he on his villain arc.)
-> General (ARMY ARMY ARMY)
-> Captain (this guy thinks he's a cool guy. he isn't.)
-> Calvary (he has a horse so he's fast, but not that greatly armored.... he has a sword though.)
-> Infantry (these shits are think they are THEM, but really they're only effective in swarms.)
-> Riflemen (the most useless shits, their arrows are useless aganist literally anything but villagers. I advise you to put these people as the damage sponge because they are WEAK)
+- The Progressor (He was kicked out because of some shenanigans, and so he on his villain arc.)
+- General (ARMY ARMY ARMY)
+- Captain (this guy thinks he's a cool guy. he isn't.)
+- Calvary (he has a horse so he's fast, but not that greatly armored.... he has a sword though.)
+- Infantry (these shits are think they are THEM, but really they're only effective in swarms.)
+- Rifleman (the most useless shits, their arrows are useless aganist literally anything but villagers. I advise you to put these people as the damage sponge because they are WEAK)
 
 Description and Statistics
