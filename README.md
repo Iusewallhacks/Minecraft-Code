@@ -4,6 +4,7 @@
 Notes:
 - Most of these comamnds will require you to have operator status in that server to execute.
 - Most of these items will require a command block, so if you see a (CB) in the file name, it requries a command block to spawn and if not, then command blocks aren't required.
+- (B) stands for boss, for more information regarding each one head down to the description and stats below.
 
 _heres what you can expect to find:_
 - books of mass destruction
