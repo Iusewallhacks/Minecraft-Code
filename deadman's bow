@@ -1,0 +1,1 @@
+/give @p bow[custom_name='["",{"text":"Deadman\'s Bow","italic":false,"color":"gold","bold":true}]',enchantments={levels:{power:50,punch:4,unbreaking:10}}]
