@@ -1,5 +1,5 @@
 # Minecraft-Shenanigans
-**Iusewallhacks here, this is where i occasionally post cool stuff. The illager army is sorta a made up thing, i occasionally run them in my single player word aganist golems to see who would come out victorious**
+**Iusewallhacks here, this is where i occasionally post cool stuff. The illager army is sorta a made up thing, i occasionally run them in my single player word against golems to see who would come out victorious**
 
 Notes:
 - Most of these comamnds will require you to have operator status in that server to execute.
