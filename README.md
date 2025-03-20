@@ -1,6 +1,7 @@
 # Minecraft-Shenanigans
 
-(NOTE! Most of these items will require you to have operator permissions inorder to spawn them.)
+(NOTE! 
+(NOTE! If there's (CBN) infront of the file name, it means you need a command block to spawn it. Most of these items will require you to have operator permissions inorder to spawn them.)
 Welcome to the shenanigans table, here you will find dumb entity and items i made for fun
 
 - What you can expect to find:
