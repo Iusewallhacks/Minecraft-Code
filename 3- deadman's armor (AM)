@@ -8,3 +8,4 @@ PANTS
 /give @p leather_leggings[trim={pattern:eye,material:gold},custom_name='["",{"text":"Deadman\'s Pants","italic":false,"color":"gold"}]',enchantments={levels:{blast_protection:5,fire_protection:3,projectile_protection:9,protection:8,swift_sneak:3,unbreaking:7}}]
 
 BOOTS
+give @a leather_boots[trim={pattern:snout,material:netherite},custom_name='["",{"text":"Deadman\'s Boots","italic":false,"color":"gold"}]',lore=['["",{"text":"BOOOOOOOOOOOOOOOOOOOOTS","italic":false}]'],enchantments={levels:{blast_protection:6,depth_strider:5,feather_falling:3,fire_protection:5,projectile_protection:5,protection:6,unbreaking:10}}]
