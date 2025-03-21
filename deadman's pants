@@ -1,1 +1,1 @@
-
+give @p leather_leggings[trim={pattern:eye,material:gold},custom_name='["",{"text":"Deadman\'s Pants","italic":false,"color":"gold"}]',enchantments={levels:{blast_protection:5,fire_protection:3,projectile_protection:9,protection:8,swift_sneak:3,unbreaking:7}}]
