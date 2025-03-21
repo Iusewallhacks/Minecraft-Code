@@ -1,1 +1,1 @@
-
+/give @a leather_helmet[trim={pattern:spire,material:gold},custom_name='["",{"text":"Deadman\'s Hat","italic":false,"color":"gold"}]',enchantments={levels:{blast_protection:3,fire_protection:2,projectile_protection:10,protection:3,unbreaking:5}}]
