@@ -24,12 +24,16 @@ Some of these mobs are in an "army" of sorts, so below are all of them listed to
 - Calvary (soon to be worked on)
 - Infantry (soon to be worked on)
 
-**  _Outlaws_**
+**_Outlaws_**
   
 - Deadman's Decree (work in progress)
 - Outlaw (soon to be worked on)
+---------------------------------------------------------------------------------
 
+_Description and Statistics_
 
-Description and Statistics
 Progressor:
 Type: Boss
+Health: 1024
+Weapons/Effects:
+Iron Sword (Progressor's Blade) 
