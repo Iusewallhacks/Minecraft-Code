@@ -4,7 +4,7 @@
 Notes:
 - Most of these comamnds will require you to have operator status in that server to execute.
 - Most of these items will require a command block, so if you see a (CB) in the file name, it requries a command block to spawn and if not, then command blocks aren't required.
-- (B) stands for boss, for more information regarding each one head down to the description and stats below.
+- **(AM) stands for armor, (WP) stands for weapon.**
 
 _heres what you can expect to find:_
 - books of mass destruction
@@ -16,8 +16,8 @@ _heres what you can expect to find:_
 ---------------------------------------------------------------------------------
 
 Some of these mobs are in an "army" of sorts, so below are all of them listed together
-_Illager's Revolutionary Army_
-- The Progressor (work in progress)
+_Illager Army_
+- Progressor (work in progress)
 - General (work in progress)
 - Captain (soon to be worked on)
 - Calvary (soon to be worked on)
@@ -28,5 +28,6 @@ _Illager's Revolutionary Army_
 - Outlaw (soon to be worked on)
 
 
-
 Description and Statistics
+Progressor:
+Type: Boss
