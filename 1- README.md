@@ -16,14 +16,16 @@ _heres what you can expect to find:_
 ---------------------------------------------------------------------------------
 
 Some of these mobs are in an "army" of sorts, so below are all of them listed together
-_Illager Army_
+
+**_Illager Army_**
 - Progressor (work in progress)
 - General (work in progress)
 - Captain (soon to be worked on)
 - Calvary (soon to be worked on)
 - Infantry (soon to be worked on)
 
-  _Outlaws_
+**  _Outlaws_**
+  
 - Deadman's Decree (work in progress)
 - Outlaw (soon to be worked on)
 
